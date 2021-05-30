@@ -1,0 +1,15 @@
+.videoTag{
+          position:fixed;
+          top: 20; 
+          left: 0;
+          width: 100%;
+         padding: none;
+         float:inline-start;
+/*width: 1200px;
+
+float:inline-start;
+padding: none;*/
+
+
+
+}

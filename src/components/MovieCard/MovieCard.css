@@ -1,0 +1,28 @@
+.watchdwnldbtn {
+    display: flex;
+    justify-content: space-between;
+    padding: 2% !important;
+    
+    
+  }
+  .movieCard{
+    width: 100px;
+  height: 200;
+  border-radius: 10px;
+  box-shadow: 0 6px 8px 0 rgba(0,0,0,0.2);
+  background-color: rgb(255, 255, 255);
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  background-color: rgb(0, 0, 0);
+   color: rgb(167, 76, 16);}
+     /* margin:5%;
+      padding:2%;
+      width:30%!important;
+      
+  }*/
+  .movieCard:hover {
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1), -2px -2px 10px rgba(0, 0, 0, 0.1),
+      18px 18px 10px rgba(0, 0, 0, 0.05), -18px -18px 10px rgba(0, 0, 0, 0.05);
+  }

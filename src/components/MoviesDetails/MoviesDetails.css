@@ -1,0 +1,59 @@
+.trailerCont{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+   
+    
+}
+.trailer {
+  width: 600px;
+  height: auto;
+  color: rgb(252, 252, 252);
+  padding: 1rem;
+  box-shadow: 10px 5px 15px rgba(136, 124, 124, 0.678);
+  border-radius: 5px;
+  background: linear-gradient(
+    to bottom,
+    #7017d6 0%,
+    #8a3ae6 38%,
+    #9f3bda 38%,
+    #a255c0 68%,
+    #cd99f0 100%
+  );
+
+}
+#movieTrailer{
+    color: rgb(212, 82, 132);
+    text-align: center;
+}
+.trailer h2 {
+  color:red;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 28px;
+  font-family: Georgia, "Times New Roman";
+  text-align: center;
+}
+.trailer Button {
+    color: rgba(253, 8, 8, 0.774);
+  width: auto;
+  height: 60px;
+  
+  background-color: rgb(15, 11, 245);
+  border-radius: 15px;
+  font-size: 20px;
+  font-style: italic;
+  font-family: Impact, sans-serif;
+
+}
+
+.trailer p {
+text-align: justify;
+color: yellow;
+font-weight: bolder;
+}
+.butn{
+    
+    display: grid;
+    justify-content: center;
+}
